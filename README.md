@@ -12,7 +12,7 @@
 - **Interested In**: Backend Development, APIs, and Systems Programming
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasibAhmed99&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasibAhmed99&show_icons=true&theme=algolia)
 
 ## 🧑‍💻 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasibAhmed99&layout=compact&theme=radical)
